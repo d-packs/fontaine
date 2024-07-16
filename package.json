@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "vite"
+  },
+  "dependencies": {
+    "fontaine": "latest",
+    "vite": "^5.1.5"
+  }
+}
